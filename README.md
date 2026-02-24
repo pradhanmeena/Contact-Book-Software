@@ -19,7 +19,7 @@ like add new contact, update previous contact, delete contact details, searching
           self.database='raw'                 #change the name of database 
    ```
 
-3. **table**: In the next step you need to to open and run the file 'table.py' that help to create all required tables.
+3. **table**: In the next step you need to to open and run the file `table.py` that help to create all required tables.
 
 4. **Change Images paths**: In the file `phone.py`, update the paths of the image files to ensure the application displays the interface correctly and maintains a better visual appearance. You need to modify the image paths at the `line numbers: 17`.
 
